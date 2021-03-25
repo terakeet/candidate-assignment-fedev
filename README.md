@@ -22,7 +22,7 @@ In order to get things up-and-running with minimal effort, this assignment packa
 - The produced page doesn't need to be exact to the wireframes, in terms of margins, font sizes, copy used, etc., but should be similar and have the same overall look.
 - All images used in the wireframes can be found in the `/images` folder.
 - jQuery can be utilized, if desired. However, please refrain from using any other libraries/frameworks for handling the above objectives, such as Bootstrap, etc.
-- Browser support should include all major, modern browsers, as well as IE 11.
+- Browser support should include all major, modern desktop and mobile browsers.
 
 ## Deliverable
 - When finished, create a zip file containing the entire package (excluding the `node_modules` and `_wireframes` directories), and send it to your point-of-contact for the hiring process.
